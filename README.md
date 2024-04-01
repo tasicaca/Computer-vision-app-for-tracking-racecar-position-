@@ -5,6 +5,7 @@
 Primer detekcije izlaska sa trkacke staze:
 
 ![image](https://github.com/tasicaca/Computer-vision-app-for-tracking-racecar-position-/assets/96747833/5ec35950-6793-44e7-ab43-c35c48986682)
+
 Primer kada je vozilo i dalje na trkackoj stazi:
 
 ![image](https://github.com/tasicaca/Computer-vision-app-for-tracking-racecar-position-/assets/96747833/d486afa5-0d12-410a-a663-3fe0abade8d0)

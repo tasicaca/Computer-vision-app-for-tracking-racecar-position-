@@ -1,4 +1,4 @@
-# Computer-vision-app-for-tracking-racecar-position-
+# Computer-vision-app-for-tracking-racecar-position
 
 U nastavku je prezentacija mog diplomskog rada:
 

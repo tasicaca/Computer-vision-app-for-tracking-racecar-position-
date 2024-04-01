@@ -32,7 +32,6 @@ outMaska = cv2.VideoWriter(output_video_maska_path, fourcc_mp4, fps, (width, hei
 car_color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
 truck_color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
 
-# Create an empty array to store binary masks for contours
 
 
 # Initialize binary masks array

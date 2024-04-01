@@ -1,6 +1,7 @@
 # Computer-vision-app-for-tracking-racecar-position-
 
 U nastavku je prezentacija mog diplomskog rada:
+
 [Aleksandar Tasic, prezentacija diplomskog rada.pptx](https://github.com/tasicaca/Computer-vision-app-for-tracking-racecar-position-/files/14823592/Aleksandar.Tasic.prezentacija.diplomskog.rada.pptx)
 
 

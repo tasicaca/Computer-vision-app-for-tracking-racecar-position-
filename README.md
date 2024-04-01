@@ -4,6 +4,7 @@
 ![image](https://github.com/tasicaca/Computer-vision-app-for-tracking-racecar-position-/assets/96747833/d7a60049-bbb0-4e25-8d4e-7afb7293478f)
 
 ![image](https://github.com/tasicaca/Computer-vision-app-for-tracking-racecar-position-/assets/96747833/5ec35950-6793-44e7-ab43-c35c48986682)
+![image](https://github.com/tasicaca/Computer-vision-app-for-tracking-racecar-position-/assets/96747833/6f3cee90-2108-4a7f-a3d6-e3ad2daafa65)
 
 
 ![image](https://github.com/tasicaca/Computer-vision-app-for-tracking-racecar-position-/assets/96747833/d486afa5-0d12-410a-a663-3fe0abade8d0)

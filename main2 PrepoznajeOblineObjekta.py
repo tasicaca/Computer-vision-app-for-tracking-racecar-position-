@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 
 from util import get_detections
-###modifikovani kod tako da radi za video, daje output_video - motogp.avi. Poreklo koda je https://www.youtube.com/watch?v=FKmXzX0lsTM
+
 # (1) define paths
 cfg_path = './models/mask_rcnn_inception/mask_rcnn_inception_v2_coco_2018_01_28.pbtxt'
 weights_path = './models/mask_rcnn_inception/frozen_inference_graph.pb'

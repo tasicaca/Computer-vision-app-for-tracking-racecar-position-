@@ -1,1 +1,1 @@
-# Computer-vision-app-for-tracking-racecar-position-
+# Computer-vision-app-for-tracking-racecar-position-[Aleksandar Tasic, prezentacija diplomskog rada.pptx](https://github.com/tasicaca/Computer-vision-app-for-tracking-racecar-position-/files/14823389/Aleksandar.Tasic.prezentacija.diplomskog.rada.pptx)
